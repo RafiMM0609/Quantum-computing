@@ -7461,11 +7461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\myfirstprogram.csproj",
+      "projectUniqueName": "e:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\myfirstprogram.csproj",
       "projectName": "myfirstprogram",
-      "projectPath": "E:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\myfirstprogram.csproj",
+      "projectPath": "e:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\myfirstprogram.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\obj\\",
+      "outputPath": "e:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7538,7 +7538,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }

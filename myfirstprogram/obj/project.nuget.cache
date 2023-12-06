@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Osj/x0n75thsEjWRH/9/g1PyunBT0a0JdaYuc7Gge/e2LxV+5p+Y9QfS60IO7ifmDyzVgQuEOqFm46ptHw5nIA==",
+  "dgSpecHash": "vpYWi23UDoRy0/2xEjguE72/Zgt7Un2tqPdhj+3wnE3OUSOU0FjlJE1QhpPtV8w7BWHfdjnWDpizmldeSzgQGw==",
   "success": true,
-  "projectFilePath": "E:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\myfirstprogram.csproj",
+  "projectFilePath": "e:\\Project\\Quantum Computing\\Quantum Computing\\myfirstprogram\\myfirstprogram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",
